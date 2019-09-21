@@ -109,6 +109,7 @@ module.exports = {
 	 * These last values can remain untouched.
 	 */
 	moment_date_format: "ddd MMMM Do YYYY [at] H:mm:ss",
+	max_reminder_time: "3 months", // time in parse-duration compatible format
 	voteTriggers: [
 		" +!",
 		" +1",
